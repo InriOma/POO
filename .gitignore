@@ -1,0 +1,8 @@
+#Ignores
+\.DS_Stores
+\.classpath
+\.project
+\.settings
+\.metadata/
+Servers/
+target/
